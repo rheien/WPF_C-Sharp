@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{29D4E2B7-6791-4F16-976D-DC11C3A52596}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WPF_C_Sharp/Features.cs">
+    <Files>
+      <File FileName="WPF_C_Sharp/Gelaende.cs" Line="6" Column="44" />
+      <File FileName="WPF_C_Sharp/Eingabe.cs" Line="26" Column="27" />
+      <File FileName="WPF_C_Sharp/Farben.cs" Line="40" Column="30" />
+      <File FileName="WPF_C_Sharp/Mini.cs" Line="30" Column="46" />
+      <File FileName="WPF_C_Sharp/Features.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WPF_C_Sharp" expanded="True" selected="True">
+            <Node name="WPF_C_Sharp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WPF__C__Sharp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
