@@ -3,16 +3,16 @@ namespace WPF_C_Sharp
 {
     public class Mini
     {
-        static int RandomNumber()
-        {
-            Random random = new Random();
-            return random.Next(0,3);
-        }
+        static int minimum = 0;
+
+        static int maximum = 2;
 
         public static int[] Positioning()
         {
-            int[] array = new int[3];
-            int index = RandomNumber();
+            Random random = new Random();
+
+            int[] array = new int[3];;
+            int index = random.Next(minimum, maximum);
 
             array[index] = 1;
 
@@ -24,10 +24,12 @@ namespace WPF_C_Sharp
             if (array[index] == 1)
             {
                 Console.WriteLine("Getroffen");
+                Console.WriteLine(String.Join(" ", array));
             }
             else
             {
                 Console.WriteLine("Daneben");
+                Console.WriteLine(String.Join(" ", array));
             }
         }
     }
